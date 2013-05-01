@@ -11,9 +11,9 @@ Aptana Studio - 3 http://www.aptana.com/
 
 Included in this project
 ========================
-The Basics - Added (01/05/2013)
+The Basics - Completed (01/05/2013)
 
-TO-DO List - (Work in progress)
+TO-DO List - Completed (01/05/2013)
 
 Add some control - ()
 
